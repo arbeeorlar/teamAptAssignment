@@ -1,0 +1,6 @@
+package com.app.decor.app.decorapp
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
